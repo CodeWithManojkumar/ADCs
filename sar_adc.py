@@ -1,3 +1,4 @@
+# Successive Approximation ADC
 def sar_adc(V_in,N,V_ref):
     output = []
     V_out = 0
