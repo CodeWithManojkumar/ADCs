@@ -1,4 +1,8 @@
 # Successive Approximation ADC
+# Only one Comparator but Clock is required
+# Total Output takes time
+# Can be built using CDAC
+
 def sar_adc(V_in,N,V_ref):
     output = []
     V_out = 0
@@ -12,4 +16,4 @@ def sar_adc(V_in,N,V_ref):
     print("Output of SAR ADC in "+str(N)+ " bits : "+ ''.join(output))
     print("Error : "+str(V_in-V_out))
 
-sar_adc(6.74,3,10)
+sar_adc(3.4,10,8)
