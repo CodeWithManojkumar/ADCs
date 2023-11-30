@@ -19,6 +19,6 @@ def flash_adc(V_in, N, V_ref):
         print("Output of Comparator "+ str(2**N-i) + " is "+ str(cmp[2**N-i]))
     
     print("Output of Flash ADC in "+str(N)+ " bits : "+ str(output))
+    print("Error : "+ str(V_in - int(''.join(map(str,output)), 2)*V_ref/2**N))
 
-flash_adc(3.3,3,8)
-
+flash_adc(6.74,3,10)
