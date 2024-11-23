@@ -67,6 +67,21 @@
         <mxCell id="QYSgvQDud7Rm18ePPlws-18" value="PI Control Unit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=palatino;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="QYSgvQDud7Rm18ePPlws-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYSgvQDud7Rm18ePPlws-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.978;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+            <mxPoint x="540.065" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
