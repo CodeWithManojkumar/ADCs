@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="OXbIw9xu9yALrL1MYpkd">
-    <mxGraphModel dx="645" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="QYSgvQDud7Rm18ePPlws-23" value="&lt;font face=&quot;palatino&quot;&gt;D&lt;sub&gt;in&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QYSgvQDud7Rm18ePPlws-24" value="&lt;font face=&quot;palatino&quot;&gt;Recovered Clock&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
