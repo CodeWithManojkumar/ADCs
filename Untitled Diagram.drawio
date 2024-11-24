@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.9">
   <diagram name="Page-1" id="OXbIw9xu9yALrL1MYpkd">
-    <mxGraphModel dx="645" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="452" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,13 +349,13 @@
         <mxCell id="QYSgvQDud7Rm18ePPlws-103" value="t&lt;font&gt;&lt;sub&gt;d&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=palatino;" parent="1" vertex="1">
           <mxGeometry x="350" y="530" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QWjKBm3lf70nuH9CTsI9-1" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QWjKBm3lf70nuH9CTsI9-1" value="Inv&lt;sub&gt;1&lt;/sub&gt;" style="triangle;whiteSpace=wrap;html=1;fontFamily=palatino;" vertex="1" parent="1">
           <mxGeometry x="300" y="720" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QWjKBm3lf70nuH9CTsI9-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="745" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QWjKBm3lf70nuH9CTsI9-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QWjKBm3lf70nuH9CTsI9-3" value="Inv&lt;sub&gt;2&lt;/sub&gt;" style="triangle;whiteSpace=wrap;html=1;fontFamily=palatino;" vertex="1" parent="1">
           <mxGeometry x="300" y="840" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QWjKBm3lf70nuH9CTsI9-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
